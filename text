@@ -1,0 +1,8 @@
+Install laravel
+Install Breeze
+migrate
+create route and view for each role
+go to authenticatecontroller and change redirect  after login on user role
+create and modify middleware
+go inside bootstrap > app and declare middleware
+add middleware to route
